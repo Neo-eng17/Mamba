@@ -1,4 +1,3 @@
-﻿From the Ashes we will rise.
-Quote: Stay sharp.
-Quote: Hunt or be Hunted.
-
+﻿Nothing is saved for that file 
+b) The file is automatically included
+c) GitHub rejects the push
