@@ -1,4 +1,3 @@
-﻿From the Ashes we will rise.
-Quote: Stay sharp.
-Quote: Hunt or be Hunted.
-
+a) git add
+b) git commit
+c) git push 
